@@ -1,0 +1,21 @@
+C:/Users/502712097/Desktop/CIT 143/Family/Family/bin/Debug/Family.exe.config
+C:/Users/502712097/Desktop/CIT 143/Family/Family/bin/Debug/Family.accdb
+C:/Users/502712097/Desktop/CIT 143/Family/Family/bin/Debug/Family.exe
+C:/Users/502712097/Desktop/CIT 143/Family/Family/bin/Debug/Family.pdb
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.csprojResolveAssemblyReference.cache
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.Form1.resources
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.Properties.Resources.resources
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.csproj.GenerateResource.Cache
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.exe
+C:/Users/502712097/Desktop/CIT 143/Family/Family/obj/Debug/Family.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/bin/Debug/Family.accdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/bin/Debug/Family.exe.config
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/bin/Debug/Family.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/bin/Debug/Family.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.csprojAssemblyReference.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.Form1.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.Properties.Resources.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.csproj.GenerateResource.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.csproj.CoreCompileInputs.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/Family/Family/obj/Debug/Family.pdb
